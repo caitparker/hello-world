@@ -1,3 +1,3 @@
 # hello-world
-First Repository: " "
+First Repository: 
 My name is Caitlin and I am interested in data science. 
